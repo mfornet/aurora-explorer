@@ -1,0 +1,5 @@
+dotmap==1.3.23
+requests==2.25.1
+Flask==2.0.1
+psycopg2-binary==2.9.1
+rlp==2.0.1
